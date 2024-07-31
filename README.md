@@ -60,7 +60,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/unon4all/GoogleMAP-Kotlin.git
+   git clone https://github.com/YashThapa01/GoogleMAP-Kotlin-.git
    cd google-maps-sdk-project
    ```
 
