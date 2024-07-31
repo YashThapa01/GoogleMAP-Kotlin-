@@ -60,8 +60,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YashThapa01/GoogleMAP-Kotlin-.git
-   cd google-maps-sdk-project
+   git clone https://github.com/YashThapa01/GoogleMAP-Kotlin-
    ```
 
 2. **Open the project in Android Studio.**
